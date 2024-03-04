@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Thu Feb 22 18:58:20 GMT 2024","Thu Feb 22 18:58:21 GMT 2024","1083","test","test_hootel","TestHootel","","","test_hotel_list",""
-"passed","Thu Feb 22 18:58:16 GMT 2024","Thu Feb 22 18:58:18 GMT 2024","2238","test","test_hootel","TestHootel","","","Hootel Login","A belépés tesztelése"
